@@ -1,4 +1,5 @@
 # Axel Guzman 0070
+# problema 27
 import cv2
 
 # Cargar imagen del delfín
